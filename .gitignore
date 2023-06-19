@@ -1,0 +1,10 @@
+*.pth
+*.pyc
+*.json
+*.jsonl
+*log*.txt
+*.pkl
+*run*.txt
+*.zip
+*.gz
+*.npz
